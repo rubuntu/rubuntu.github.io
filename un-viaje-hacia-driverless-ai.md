@@ -4,15 +4,15 @@ Me han preguntado cómo se debe hacer para ingresar al área de Ciencia de Datos
 No hay un solo camino de aprendizaje.
 
 _**La respuesta corta:**_   
-Recomiendo revisar las matemáticas de secundaria y universidad:
-- Álgebra lineal
-- Cálculo
-- Estadística
-- Luego toma un curso de Data Science en un MOOC.
+Recomendaciones:
+- Revisar las matemáticas de secundaria y universidad:
+  - Álgebra lineal
+  - Cálculo
+  - Estadística
+- Luego tomar un curso de Data Science en un MOOC.
 - Asistir a reuniones y conferencias sobre ciencia de datos
-
-Como lenguaje de programación puedes aprender R o Python, pero también herramientas con GUI como KNIME, RapidMiner, IBM SPSS Modeler, entre otros.  
-Como se trabajaría con bases de datos relacionales, es importantísimo aprender SQL.  
+- Como lenguaje de programación puedes aprender R o Python, pero también herramientas con GUI como KNIME, RapidMiner, IBM SPSS Modeler, entre otros.  
+- Como se trabajaría con bases de datos relacionales, es importantísimo aprender SQL.  
 
 _**La respuesta larga:**_   
 Una respuesta larga es contarte acerca de mi viaje a *Data Science*.  
