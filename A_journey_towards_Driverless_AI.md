@@ -9,8 +9,9 @@ _**The short answer:**_
 - Calculus  
 - Statistics  
 - Then take a Data Science course in a MOOC.
+- Attend Data Science Meetups & Conferences  
+
 As a programming language you can learn R or Python, but also tools with GUI such as KNIME, RapidMiner, IBM SPSS Modeler, among others.  
-- Attend Data Science Meetups & Conferences
 
 _**The long answer:**_  
 A long answer is to tell you about my journey to Data Science.  
